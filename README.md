@@ -22,8 +22,8 @@
 
 | Pool | Reward | Start Block | End Block | Doration | Reward per Block |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| MAP / USDC | MAP | 1158000 | 2713200 | 1555200 (90 days) | 1.2 MAP |
-| MAP / ETH  | MAP | 1158000 | 2713200 | 1555200 (90 days) | 2.9 MAP |
+| MAP / USDC | MAP | 1158000 | 2713200 | 1555200 (90 days) | ~~6~~ 1.2 MAP |
+| MAP / ETH  | MAP | 1158000 | 2713200 | 1555200 (90 days) | ~~32~~ 2.9 MAP |
 | MAP / IDV | IDV | 1158000 | 2713200 | 1555200 (90 days) | 0.1 IDV |
 | IDV / xIDV | IDV | 1158000 | 2713200 | 1555200 (90 days) | 0.1 IDV |
 | yxIDV / xIDV | IDV | 1158000 | 2713200 | 1555200 (90 days) | 0.8 IDV |
