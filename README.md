@@ -19,6 +19,21 @@
 | yxMAP / xMAP | 0xaa8514208f06b9168b0cb345ded5483ab37440ed | 0x4a27973cdbaf56a7838865d3970a9f8d3086323e |
 | gxMAP / xMAP | 0xde2d1b5f77514791b89a09ee90179dafd01692ae | 0xe63af737369ed178857e9699eba99047978394fb |
 
+### PoC-3
+
+| Pool | Reward | Start Block | End Block | Doration | Reward per Block |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| MAP / USDC | MAP | 190000 | 4268400 ~~2713200~~ | 3110400 (180 days) ~~1555200 (90 days)~~ | ~~6~~ ~~1.2~~ ~~0.4~~ 0.2 MAP |
+| MAP / ETH  | MAP | 190000 | 4268400 ~~2713200~~ | 3110400 (180 days)~~1555200 (90 days)~~ | ~~32~~ ~~2.9~~ ~~2.0~~ ~~1.2~~ 0.6 MAP |
+| MAP / IDV | IDV | 190000 | 4268400 ~~2713200~~ | 3110400 (180 days)~~1555200 (90 days)~~ | 0.1 IDV |
+| IDV / xIDV | IDV | 190000 | 4268400 ~~2713200~~ | 3110400 (180 days)~~1555200 (90 days)~~ | ~~0.1~~ 0.025 IDV |
+| yxIDV / xIDV | IDV | 190000 | 4268400 ~~2713200~~ | 3110400 (180 days)~~1555200 (90 days)~~ | ~~3.0~~ 0.375 IDV |
+| gxIDV / xIDV | IDV | 190000 | 4268400 ~~2713200~~ | 3110400 (180 days)~~1555200 (90 days)~~ | ~~0.8~~ 0.16 IDV |
+| MAP / xMAP | MAP | 190000 | 3335200 | 1555200 (90 days) | 0.002 MAP |
+| yxMAP / xMAP | MAP | 190000 | 3335200 | 1555200 (90 days) | 0.002 MAP |
+| gxMAP / xMAP | MAP | 190000 | 3335200 | 1555200 (90 days) | 0.002 MAP |
+
+### PoC-2
 
 | Pool | Reward | Start Block | End Block | Doration | Reward per Block |
 | ------ | ------ | ------ | ------ | ------ | ------ |
